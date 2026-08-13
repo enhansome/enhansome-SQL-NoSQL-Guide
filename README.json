@@ -1,0 +1,211 @@
+{
+  "items": [
+    {
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL/NoSQL Learning Resources",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoSQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distributed Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Parallel Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-04T22:22:22Z",
+            "owner": "mikeroyal",
+            "repo": "SQL-NoSQL-Guide",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQL/NoSQL Tools and Databases",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NoSQL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distributed Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Parallel Systems",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-01-04T22:22:22Z",
+                "owner": "mikeroyal",
+                "repo": "SQL-NoSQL-Guide",
+                "stars": 75
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-01-04T22:22:22Z",
+            "owner": "mikeroyal",
+            "repo": "SQL-NoSQL-Guide",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "A guide covering SQL/NoSQL including the applications and tools that will make you a better and more efficient SQL/NoSQL developer."
+    },
+    {
+      "description": "Back to the Top\nSQL is a standard language for storing, manipulating and retrieving data in relational databases.\nTransact-SQL(T-SQL) is a Microsoft extension of SQL with all of the tools and applications communicating to a SQL database by sending T-SQL commands.\nPL/SQL is a procedural language designed specifically to embrace SQL statements within its syntax. PL/SQL program units are compiled by the Oracle Database server and stored inside the database.\nOnline Analytical Processing (OLAP) is a technology that is used to organize large business databases and support business intelligence.\nDecision Support System (DSS) is a information system used to help in decision-making activities in an organization or a business by analyzing large datasets. It compiles the information that can be used to solve problems and make better decisions.",
+      "items": [],
+      "title": "SQL Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SQL-Books(PDFs)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-19T07:18:01Z",
+            "owner": "manjunath5496",
+            "repo": "SQL-Books",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database Books(PDFs)",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "SQL Courses & Tutorials"
+    },
+    {
+      "description": "Back to the Top\nNoSQL is a database that is interchangeably referred to as \"nonrelational, or \"non-SQL\" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.",
+      "items": [],
+      "title": "NoSQL Learning Resources"
+    },
+    {
+      "description": "Back to the Top\nParallel Computing is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Where large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism.",
+      "items": [],
+      "title": "Parallel Systems Learning Resources"
+    },
+    {
+      "description": "Back to the Top\nApache Cassandra™ is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.\nApache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of streaming event data.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache HBase™ is an open-source, NoSQL, distributed big data store. It enables random, strictly consistent, real-time access to petabytes of data. HBase is very effective for handling large, sparse datasets. HBase serves as a direct input and output to the Apache MapReduce framework for Hadoop, and works with Apache Phoenix to enable SQL-like queries over HBase tables.\nHadoop Distributed File System (HDFS) is a distributed file system that handles large data sets running on commodity hardware. It is used to scale a single Apache Hadoop cluster to hundreds (and even thousands) of nodes. HDFS is one of the major components of Apache Hadoop, the others being MapReduce and YARN.\nApache Spark™ is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nCluster Manager for Apache Kafka(CMAK) is a tool for managing Apache Kafka clusters.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nApache Cassandra™ is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.\nApache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of streaming event data.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache Beam is an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs).\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nNeo4j is the only enterprise-strength graph database that combines native graph storage, advanced security, scalable speed-optimized architecture, and ACID compliance to ensure predictability and integrity of relationship-based queries.\nElasticSearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.\nLogstash is a tool for managing events and logs. When used generically, the term encompasses a larger system of log collection, processing, storage and searching activities.\nKibana is an open source data visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.\nTrino is a Distributed SQL query engine for big data. It is able to tremendously speed up ETL processes, allow them all to use standard SQL statement, and work with numerous data sources and targets all in the same system.\nExtract, transform, and load (ETL) is a data pipeline used to collect data from various sources, transform the data according to business rules, and load it into a destination data store.\nRedis(REmote DIctionary Server) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. It provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows.\nBack to the Top\nOpenMP is an API that supports multi-platform shared-memory parallel programming in C/C++ and Fortran. The OpenMP API defines a portable, scalable model with a simple and flexible interface for developing parallel applications on platforms from the desktop to the supercomputer.\nCUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers are able to dramatically speed up computing applications by harnessing the power of GPUs.\nMessage Passing Interface (MPI) is a standardized and portable message-passing standard designed to function on parallel computing architectures.\nMicrosoft MPI (MS-MPI) is a Microsoft implementation of the Message Passing Interface standard for developing and running parallel applications on the Windows platform.\nSlurm is a free open-source workload manager designed specifically to satisfy the demanding needs of high performance computing.\nPortable Batch System (PBS) Pro is a fast, powerful workload manager designed to improve productivity, optimize utilization and efficiency, and simplify administration for clusters, clouds, and supercomputers.\nAWS ParallelCluster is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.\nNumba is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.\nApache Arrow is a language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware like CPUs and GPUs.\nMATLAB Parallel Server™ is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nApache Spark™ is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nCluster Manager for Apache Kafka(CMAK) is a tool for managing Apache Kafka clusters.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache Beam is an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs).\nNeo4j is the only enterprise-strength graph database that combines native graph storage, advanced security, scalable speed-optimized architecture, and ACID compliance to ensure predictability and integrity of relationship-based queries.\nRedis(REmote DIctionary Server) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. It provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.\nElasticSearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.\nLogstash is a tool for managing events and logs. When used generically, the term encompasses a larger system of log collection, processing, storage and searching activities.\nKibana is an open source data visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.\nExtract, transform, and load (ETL) is a data pipeline used to collect data from various sources, transform the data according to business rules, and load it into a destination data store.",
+      "items": [],
+      "title": "Distributed Systems Tools"
+    },
+    {
+      "description": "Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:31.938Z",
+    "original_repository": "mikeroyal/SQL-NoSQL-Guide",
+    "original_repository_sha": "326b3da0b8ceb62303ebe1573c231c89d134dccd",
+    "enhanced_repository": "enhansome/enhansome-SQL-NoSQL-Guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome SQL/NoSQL Learning Resources with stars"
+  }
+}
