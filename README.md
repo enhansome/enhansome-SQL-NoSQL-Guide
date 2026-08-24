@@ -312,7 +312,7 @@
 
 [rqlite](https://github.com/rqlite/rqlite) ⭐ 17,697 | 🐛 82 | 🌐 Go | 📅 2026-08-20 is an easy-to-use, lightweight, distributed relational database, which uses [SQLite](https://www.sqlite.org/) as its storage engine.
 
-[osquery](https://github.com/osquery/osquery) ⭐ 23,490 | 🐛 623 | 🌐 C++ | 📅 2026-08-19 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+[osquery](https://github.com/osquery/osquery) ⭐ 23,493 | 🐛 623 | 🌐 C++ | 📅 2026-08-19 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
 
 [SQLModel](https://github.com/tiangolo/sqlmodel) ⭐ 18,279 | 🐛 60 | 🌐 Python | 📅 2026-08-12 is a library for interacting with SQL databases from Python code, with Python objects. It is designed to be intuitive, easy to use, highly compatible, and robust.
 
@@ -361,13 +361,13 @@
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.
 
-[Scylla](https://github.com/scylladb/scylla) ⭐ 15,721 | 🐛 3,578 | 🌐 C++ | 📅 2026-08-24 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
+[Scylla](https://github.com/scylladb/scylla) ⭐ 15,721 | 🐛 3,580 | 🌐 C++ | 📅 2026-08-24 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
 
 [MongoDB](https://www.mongodb.com/) is a document database meaning it stores data in JSON-like documents.
 
 [NoSQLBooster](https://www.nosqlbooster.com/) is a cross-platform IDE for [MongoDB v2.6-5.0](https://www.mongodb.com/download-center/community/releases), which provides a build-in MongoDB script debugger, SQL query, server monitoring tools, chaining fluent query, query code generator, task scheduling, ES2020 support, and advanced IntelliSense experience.
 
-[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 49,425 | 🐛 7,027 | 🌐 C++ | 📅 2026-08-24 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
+[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 49,425 | 🐛 7,029 | 🌐 C++ | 📅 2026-08-24 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
 
 [Neo4j](https://neo4j.com/) is a graph database management system that provides an array of tools, libraries, and frameworks to make development faster and easier.
 
