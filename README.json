@@ -201,7 +201,7 @@
             "last_commit": "2026-02-28T16:30:21Z",
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7686
+            "stars": 7685
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 20787122,
             "language": "Haskell",
-            "last_commit": "2026-08-23T17:26:42Z",
+            "last_commit": "2026-08-24T16:48:09Z",
             "owner": "PostgREST",
             "repo": "postgrest",
-            "stars": 27623
+            "stars": 27624
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 84240850,
             "language": "C",
-            "last_commit": "2026-08-24T14:54:50Z",
+            "last_commit": "2026-08-24T17:01:24Z",
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23404
+            "stars": 23406
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-26T15:02:12Z",
             "owner": "knex",
             "repo": "knex",
-            "stars": 20341
+            "stars": 20342
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-20T12:30:23Z",
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17697
+            "stars": 17696
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-19T18:14:44Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23493
+            "stars": 23518
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-12T07:20:01Z",
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18279
+            "stars": 18282
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 50874442,
             "language": "C",
-            "last_commit": "2026-08-24T14:04:33Z",
+            "last_commit": "2026-08-24T17:59:30Z",
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12722
+            "stars": 12723
           }
         }
       ],
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-24T14:16:49Z",
+            "last_commit": "2026-08-25T05:10:48Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15721
+            "stars": 15724
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-24T15:01:03Z",
+            "last_commit": "2026-08-25T06:32:38Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49425
+            "stars": 49434
           }
         },
         {
@@ -389,7 +389,7 @@
                 "last_commit": "2023-08-02T19:26:23Z",
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11926
+                "stars": 11925
               }
             }
           ],
@@ -412,10 +412,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-21T17:39:56Z",
+            "last_commit": "2026-08-25T06:02:21Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11126
+            "stars": 11127
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2023-08-02T19:26:23Z",
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11926
+            "stars": 11925
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:23.642Z",
+    "last_updated": "2026-08-25T06:41:12.165Z",
     "original_repository": "mikeroyal/SQL-NoSQL-Guide",
     "original_repository_id": 295209037,
     "original_repository_sha": "326b3da0b8ceb62303ebe1573c231c89d134dccd",
