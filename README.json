@@ -243,10 +243,10 @@
             "archived": false,
             "id": 84240850,
             "language": "C",
-            "last_commit": "2026-08-24T17:01:24Z",
+            "last_commit": "2026-08-25T12:47:26Z",
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23406
+            "stars": 23413
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-23T22:21:05Z",
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3562
+            "stars": 3563
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 23247808,
             "language": "Go",
-            "last_commit": "2026-08-20T12:30:23Z",
+            "last_commit": "2026-08-25T13:18:02Z",
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17696
+            "stars": 17698
           }
         },
         {
@@ -318,10 +318,10 @@
             "archived": false,
             "id": 399495186,
             "language": "Python",
-            "last_commit": "2026-08-12T07:20:01Z",
+            "last_commit": "2026-08-25T13:59:51Z",
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18282
+            "stars": 18284
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-24T17:59:30Z",
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12723
+            "stars": 12727
           }
         }
       ],
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-25T05:10:48Z",
+            "last_commit": "2026-08-25T13:44:54Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15724
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-25T06:32:38Z",
+            "last_commit": "2026-08-25T14:24:19Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49434
+            "stars": 49439
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:41:12.165Z",
+    "last_updated": "2026-08-25T14:31:10.005Z",
     "original_repository": "mikeroyal/SQL-NoSQL-Guide",
     "original_repository_id": 295209037,
     "original_repository_sha": "326b3da0b8ceb62303ebe1573c231c89d134dccd",
