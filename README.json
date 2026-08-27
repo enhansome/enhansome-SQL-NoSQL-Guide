@@ -201,7 +201,7 @@
             "last_commit": "2026-02-28T16:30:21Z",
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7686
+            "stars": 7685
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 84240850,
             "language": "C",
-            "last_commit": "2026-08-27T11:45:50Z",
+            "last_commit": "2026-08-27T17:15:05Z",
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23426
+            "stars": 23431
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-27T02:45:54Z",
+            "last_commit": "2026-08-27T15:26:53Z",
             "owner": "Netflix",
             "repo": "atlas",
             "stars": 3564
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-25T18:44:37Z",
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17706
+            "stars": 17707
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-25T16:33:00Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23524
+            "stars": 23525
           }
         },
         {
@@ -318,10 +318,10 @@
             "archived": false,
             "id": 399495186,
             "language": "Python",
-            "last_commit": "2026-08-25T13:59:51Z",
+            "last_commit": "2026-08-27T17:14:11Z",
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18286
+            "stars": 18289
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 50874442,
             "language": "C",
-            "last_commit": "2026-08-27T08:45:00Z",
+            "last_commit": "2026-08-27T17:57:50Z",
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12731
+            "stars": 12733
           }
         }
       ],
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-27T11:59:47Z",
+            "last_commit": "2026-08-27T22:40:36Z",
             "owner": "scylladb",
             "repo": "scylladb",
             "stars": 15723
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-27T12:02:48Z",
+            "last_commit": "2026-08-27T23:12:57Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49481
+            "stars": 49491
           }
         },
         {
@@ -412,10 +412,10 @@
             "archived": false,
             "id": 3659275,
             "language": "Python",
-            "last_commit": "2026-08-26T00:16:18Z",
+            "last_commit": "2026-08-27T16:05:16Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11130
+            "stars": 11131
           }
         },
         {
@@ -460,7 +460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:11.959Z",
+    "last_updated": "2026-08-27T23:14:46.322Z",
     "original_repository_info": {
       "archived": false,
       "id": 295209037,
