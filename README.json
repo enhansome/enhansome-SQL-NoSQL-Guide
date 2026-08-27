@@ -213,7 +213,7 @@
             "archived": false,
             "id": 20787122,
             "language": "Haskell",
-            "last_commit": "2026-08-26T05:50:35Z",
+            "last_commit": "2026-08-27T00:40:04Z",
             "owner": "PostgREST",
             "repo": "postgrest",
             "stars": 27630
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 84240850,
             "language": "C",
-            "last_commit": "2026-08-26T14:14:07Z",
+            "last_commit": "2026-08-27T11:45:50Z",
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23418
+            "stars": 23426
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 22631422,
             "language": "Scala",
-            "last_commit": "2026-08-25T15:14:39Z",
+            "last_commit": "2026-08-27T02:45:54Z",
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3563
+            "stars": 3564
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-25T18:44:37Z",
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17704
+            "stars": 17706
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-25T16:33:00Z",
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23522
+            "stars": 23524
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-25T13:59:51Z",
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18283
+            "stars": 18286
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 50874442,
             "language": "C",
-            "last_commit": "2026-08-26T14:11:24Z",
+            "last_commit": "2026-08-27T08:45:00Z",
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12730
+            "stars": 12731
           }
         }
       ],
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 28449431,
             "language": "C++",
-            "last_commit": "2026-08-26T13:47:05Z",
+            "last_commit": "2026-08-27T11:59:47Z",
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15722
+            "stars": 15723
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 60246359,
             "language": "C++",
-            "last_commit": "2026-08-26T14:30:08Z",
+            "last_commit": "2026-08-27T12:02:48Z",
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 49461
+            "stars": 49481
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2026-08-26T00:16:18Z",
             "owner": "numba",
             "repo": "numba",
-            "stars": 11128
+            "stars": 11130
           }
         },
         {
@@ -460,9 +460,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:30:22.907Z",
-    "original_repository": "mikeroyal/SQL-NoSQL-Guide",
-    "original_repository_id": 295209037,
+    "last_updated": "2026-08-27T12:04:11.959Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 295209037,
+      "language": "Go",
+      "last_commit": "2024-01-04T22:22:22Z",
+      "owner": "mikeroyal",
+      "repo": "SQL-NoSQL-Guide",
+      "stars": 75
+    },
     "original_repository_sha": "326b3da0b8ceb62303ebe1573c231c89d134dccd",
     "enhanced_repository": "enhansome/enhansome-SQL-NoSQL-Guide",
     "enhanced_repository_description": null,
