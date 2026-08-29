@@ -268,7 +268,7 @@
 
 [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
-[PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,633 | 🐛 396 | 🌐 Haskell | 📅 2026-08-27 is a tool that serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
+[PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,634 | 🐛 394 | 🌐 Haskell | 📅 2026-08-29 is a tool that serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
 
 [OmniDB](https://github.com/OmniDB/OmniDB) ⭐ 3,284 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 is a web-based tool for database management.
 
@@ -296,7 +296,7 @@
 
 [SQLite Database Browser](https://sqlitebrowser.org/) is an open source SQL tool that allows users to create, design and edits SQLite database files. It lets users show a log of all the SQL commands that have been issued by them and by the application itself.
 
-[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,438 | 🐛 400 | 🌐 C | 📅 2026-08-28 is an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.
+[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,439 | 🐛 398 | 🌐 C | 📅 2026-08-29 is an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.
 
 [InfluxDB](https://www.influxdata.com/) is an open source time series platform.  This includes APIs for storing and querying data, processing it in the background for [ETL](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl) or monitoring and alerting purposes, user dashboards, Internet of Things sensor data, and visualizing and exploring the data and more. It also has support for processing data from [Graphite](http://graphiteapp.org/).
 
@@ -310,13 +310,13 @@
 
 [Knex](https://github.com/knex/knex) ⭐ 20,342 | 🐛 743 | 🌐 JavaScript | 📅 2026-06-26 is a query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 
-[rqlite](https://github.com/rqlite/rqlite) ⭐ 17,711 | 🐛 83 | 🌐 Go | 📅 2026-08-28 is an easy-to-use, lightweight, distributed relational database, which uses [SQLite](https://www.sqlite.org/) as its storage engine.
+[rqlite](https://github.com/rqlite/rqlite) ⭐ 17,711 | 🐛 82 | 🌐 Go | 📅 2026-08-29 is an easy-to-use, lightweight, distributed relational database, which uses [SQLite](https://www.sqlite.org/) as its storage engine.
 
-[osquery](https://github.com/osquery/osquery) ⭐ 23,527 | 🐛 632 | 🌐 C++ | 📅 2026-08-25 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+[osquery](https://github.com/osquery/osquery) ⭐ 23,528 | 🐛 632 | 🌐 C++ | 📅 2026-08-25 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
 
-[SQLModel](https://github.com/tiangolo/sqlmodel) ⭐ 18,289 | 🐛 56 | 🌐 Python | 📅 2026-08-28 is a library for interacting with SQL databases from Python code, with Python objects. It is designed to be intuitive, easy to use, highly compatible, and robust.
+[SQLModel](https://github.com/tiangolo/sqlmodel) ⭐ 18,291 | 🐛 56 | 🌐 Python | 📅 2026-08-28 is a library for interacting with SQL databases from Python code, with Python objects. It is designed to be intuitive, easy to use, highly compatible, and robust.
 
-[Citus](https://github.com/citusdata/citus) ⭐ 12,735 | 🐛 1,063 | 🌐 C | 📅 2026-08-28 is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale.
+[Citus](https://github.com/citusdata/citus) ⭐ 12,735 | 🐛 1,064 | 🌐 C | 📅 2026-08-28 is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale.
 
 [DBeaver](https://dbeaver.io/) is an open source database tool for developers and database administrators. It offers supports for JDBC compliant databases such as MySQL, Oracle, IBM DB2, SQL Server, Firebird, SQLite, Sybase, Teradata, Firebird, Apache Hive, Phoenix, and Presto.
 
@@ -361,13 +361,13 @@
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.
 
-[Scylla](https://github.com/scylladb/scylla) ⭐ 15,724 | 🐛 3,631 | 🌐 C++ | 📅 2026-08-28 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
+[Scylla](https://github.com/scylladb/scylla) ⭐ 15,725 | 🐛 3,634 | 🌐 C++ | 📅 2026-08-29 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
 
 [MongoDB](https://www.mongodb.com/) is a document database meaning it stores data in JSON-like documents.
 
 [NoSQLBooster](https://www.nosqlbooster.com/) is a cross-platform IDE for [MongoDB v2.6-5.0](https://www.mongodb.com/download-center/community/releases), which provides a build-in MongoDB script debugger, SQL query, server monitoring tools, chaining fluent query, query code generator, task scheduling, ES2020 support, and advanced IntelliSense experience.
 
-[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 49,517 | 🐛 7,232 | 🌐 C++ | 📅 2026-08-29 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
+[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 49,521 | 🐛 7,222 | 🌐 C++ | 📅 2026-08-29 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
 
 [Neo4j](https://neo4j.com/) is a graph database management system that provides an array of tools, libraries, and frameworks to make development faster and easier.
 
@@ -460,7 +460,7 @@
 
 [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,132 | 🐛 1,798 | 🌐 Python | 📅 2026-08-28 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,134 | 🐛 1,798 | 🌐 Python | 📅 2026-08-28 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
