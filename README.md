@@ -21,25 +21,25 @@
 
 # Table of Contents
 
-1. [SQL/NoSQL Learning Resources](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-learning-resources) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+1. [SQL/NoSQL Learning Resources](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-learning-resources) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
-   * [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-learning-resources) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-learning-resources) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-learning-resources) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-learning-resources) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-learning-resources) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-learning-resources) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-learning-resources) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-learning-resources) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
-2. [ SQL/NoSQL Tools and Databases](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-tools-and-databases) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+2. [ SQL/NoSQL Tools and Databases](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-tools-and-databases) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
-   * [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-tools) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-tools) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-tools) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
-   * [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-tools) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-tools) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-tools) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-tools) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+   * [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-tools) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 # Awesome SQL/NoSQL Learning Resources with stars
 
 ## SQL Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 [SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
 
@@ -118,7 +118,7 @@
 
 ## NoSQL Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 [NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
 
@@ -157,7 +157,7 @@
 
 ## Distributed Systems Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 [Distributed System](https://www.splunk.com/en_us/data-insider/what-are-distributed-systems.html) is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. There are four different basic architecture models:
 
@@ -198,7 +198,7 @@
 
 ## Parallel Systems Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 [Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing) is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Where large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: [bit-level](https://en.wikipedia.org/wiki/Bit-level_parallelism), [instruction-level](https://en.wikipedia.org/wiki/Instruction-level_parallelism), [data](https://en.wikipedia.org/wiki/Data_parallelism), and [task parallelism](https://en.wikipedia.org/wiki/Task_parallelism).
 
@@ -239,7 +239,7 @@
 
 # SQL Tools
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/169607509-ba5e092f-c566-4014-86a1-258bf75266d0.png">
@@ -268,7 +268,7 @@
 
 [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
-[PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,677 | 🐛 405 | 🌐 Haskell | 📅 2026-09-21 is a tool that serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
+[PostgREST](https://github.com/PostgREST/postgrest) ⭐ 27,678 | 🐛 409 | 🌐 Haskell | 📅 2026-09-23 is a tool that serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
 
 [OmniDB](https://github.com/OmniDB/OmniDB) ⭐ 3,285 | 🐛 330 | 🌐 JavaScript | 📅 2023-02-01 is a web-based tool for database management.
 
@@ -296,11 +296,11 @@
 
 [SQLite Database Browser](https://sqlitebrowser.org/) is an open source SQL tool that allows users to create, design and edits SQLite database files. It lets users show a log of all the SQL commands that have been issued by them and by the application itself.
 
-[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,563 | 🐛 391 | 🌐 C | 📅 2026-09-22 is an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.
+[TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,576 | 🐛 395 | 🌐 C | 📅 2026-09-23 is an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL and packaged as a PostgreSQL extension, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.
 
 [InfluxDB](https://www.influxdata.com/) is an open source time series platform.  This includes APIs for storing and querying data, processing it in the background for [ETL](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl) or monitoring and alerting purposes, user dashboards, Internet of Things sensor data, and visualizing and exploring the data and more. It also has support for processing data from [Graphite](http://graphiteapp.org/).
 
-[Atlas](https://github.com/Netflix/atlas) ⭐ 3,567 | 🐛 8 | 🌐 Scala | 📅 2026-09-21 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+[Atlas](https://github.com/Netflix/atlas) ⭐ 3,568 | 🐛 8 | 🌐 Scala | 📅 2026-09-21 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
 
 [dbWatch](https://www.dbwatch.com/) is a complete database monitoring/management solution for SQL Server, Oracle, PostgreSQL, Sybase, MySQL and Azure. Designed for proactive management and automation of routine maintenance in large scale on-premise, hybrid/cloud database environments.
 
@@ -308,15 +308,15 @@
 
 [Adminer](https://www.adminer.org/) is an SQL management client tool for managing databases, tables, relations, indexes, users. Adminer has support for all the popular database management systems such as MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.
 
-[Knex](https://github.com/knex/knex) ⭐ 20,346 | 🐛 753 | 🌐 JavaScript | 📅 2026-06-26 is a query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+[Knex](https://github.com/knex/knex) ⭐ 20,347 | 🐛 752 | 🌐 JavaScript | 📅 2026-06-26 is a query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 
-[rqlite](https://github.com/rqlite/rqlite) ⭐ 17,755 | 🐛 74 | 🌐 Go | 📅 2026-09-22 is an easy-to-use, lightweight, distributed relational database, which uses [SQLite](https://www.sqlite.org/) as its storage engine.
+[rqlite](https://github.com/rqlite/rqlite) ⭐ 17,761 | 🐛 74 | 🌐 Go | 📅 2026-09-22 is an easy-to-use, lightweight, distributed relational database, which uses [SQLite](https://www.sqlite.org/) as its storage engine.
 
-[osquery](https://github.com/osquery/osquery) ⭐ 23,586 | 🐛 603 | 🌐 C++ | 📅 2026-09-22 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
+[osquery](https://github.com/osquery/osquery) ⭐ 23,587 | 🐛 605 | 🌐 C++ | 📅 2026-09-22 is a SQL powered operating system instrumentation, monitoring, and analytics framework.
 
-[SQLModel](https://github.com/tiangolo/sqlmodel) ⭐ 18,335 | 🐛 56 | 🌐 Python | 📅 2026-09-22 is a library for interacting with SQL databases from Python code, with Python objects. It is designed to be intuitive, easy to use, highly compatible, and robust.
+[SQLModel](https://github.com/tiangolo/sqlmodel) ⭐ 18,338 | 🐛 56 | 🌐 Python | 📅 2026-09-23 is a library for interacting with SQL databases from Python code, with Python objects. It is designed to be intuitive, easy to use, highly compatible, and robust.
 
-[Citus](https://github.com/citusdata/citus) ⭐ 12,782 | 🐛 1,080 | 🌐 C | 📅 2026-09-22 is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale.
+[Citus](https://github.com/citusdata/citus) ⭐ 12,784 | 🐛 1,076 | 🌐 C | 📅 2026-09-23 is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale.
 
 [DBeaver](https://dbeaver.io/) is an open source database tool for developers and database administrators. It offers supports for JDBC compliant databases such as MySQL, Oracle, IBM DB2, SQL Server, Firebird, SQLite, Sybase, Teradata, Firebird, Apache Hive, Phoenix, and Presto.
 
@@ -350,7 +350,7 @@
 
 # NoSQL Tools
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/169607515-65629e5a-83e1-4578-9eb5-afe915f0fad9.png">
@@ -361,13 +361,13 @@
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a key-value and document database that delivers single-digit millisecond performance at any scale. It is a fully managed, multiregion, multimaster, durable database with built-in security, backup and restore, and in-memory caching for internet-scale applications.
 
-[Scylla](https://github.com/scylladb/scylla) ⭐ 15,773 | 🐛 3,681 | 🌐 C++ | 📅 2026-09-22 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
+[Scylla](https://github.com/scylladb/scylla) ⭐ 15,772 | 🐛 3,695 | 🌐 C++ | 📅 2026-09-23 is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
 
 [MongoDB](https://www.mongodb.com/) is a document database meaning it stores data in JSON-like documents.
 
 [NoSQLBooster](https://www.nosqlbooster.com/) is a cross-platform IDE for [MongoDB v2.6-5.0](https://www.mongodb.com/download-center/community/releases), which provides a build-in MongoDB script debugger, SQL query, server monitoring tools, chaining fluent query, query code generator, task scheduling, ES2020 support, and advanced IntelliSense experience.
 
-[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 50,021 | 🐛 7,903 | 🌐 C++ | 📅 2026-09-22 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
+[ClickHouse®](https://github.com/ClickHouse/ClickHouse) ⭐ 50,036 | 🐛 7,899 | 🌐 C++ | 📅 2026-09-23 is an open-source column-oriented database management system that allows generating analytical data reports in real-time.
 
 [Neo4j](https://neo4j.com/) is a graph database management system that provides an array of tools, libraries, and frameworks to make development faster and easier.
 
@@ -385,7 +385,7 @@
 
 ## Distributed Systems Tools
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
  <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/134824550-8848a81b-432a-4e94-bf4f-8420e3b249ce.png">
@@ -439,7 +439,7 @@
 
 # Parallel Systems Tools
 
-[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/134823775-cdb8e082-2f8a-4b72-a7c9-f29554ce1e7b.png">
@@ -460,7 +460,7 @@
 
 [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,158 | 🐛 1,799 | 🌐 Python | 📅 2026-09-21 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,158 | 🐛 1,800 | 🌐 Python | 📅 2026-09-21 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
@@ -496,7 +496,7 @@
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/SQL-NoSQL-Guide/pulls) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-01-04.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/SQL-NoSQL-Guide/pulls) ⭐ 76 | 🐛 0 | 🌐 Go | 📅 2024-01-04.
 
 ## License
 
@@ -504,4 +504,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
