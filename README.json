@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "manjunath5496",
                 "repo": "SQL-Books",
-                "stars": 85,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:13:36.124Z"
@@ -79,11 +79,11 @@
             "id": 20787122,
             "language": "Haskell",
             "license": "MIT",
-            "last_commit": "2026-10-16T06:50:56Z",
-            "open_issues": 408,
+            "last_commit": "2026-10-16T18:40:18Z",
+            "open_issues": 409,
             "owner": "PostgREST",
             "repo": "postgrest",
-            "stars": 27722,
+            "stars": 27721,
             "topics": [
               "api",
               "automatic-api",
@@ -118,7 +118,7 @@
             "open_issues": 330,
             "owner": "OmniDB",
             "repo": "OmniDB",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "database",
               "database-conversion",
@@ -140,11 +140,11 @@
             "id": 84240850,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T17:28:25Z",
+            "last_commit": "2026-10-16T22:39:47Z",
             "open_issues": 429,
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23709,
+            "stars": 23711,
             "topics": [
               "analytics",
               "database",
@@ -179,7 +179,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3571,
+            "stars": 3572,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:36.124Z"
@@ -200,7 +200,7 @@
             "open_issues": 758,
             "owner": "knex",
             "repo": "knex",
-            "stars": 20337,
+            "stars": 20336,
             "topics": [
               "javascript",
               "knex",
@@ -224,11 +224,11 @@
             "id": 23247808,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:35:48Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-16T22:33:06Z",
+            "open_issues": 65,
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17794,
+            "stars": 17804,
             "topics": [
               "consensus",
               "database",
@@ -258,7 +258,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T16:57:10Z",
-            "open_issues": 582,
+            "open_issues": 584,
             "owner": "osquery",
             "repo": "osquery",
             "stars": 23651,
@@ -288,7 +288,7 @@
             "open_issues": 53,
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18401,
+            "stars": 18406,
             "topics": [
               "fastapi",
               "json",
@@ -317,7 +317,7 @@
             "open_issues": 779,
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12817,
+            "stars": 12818,
             "topics": [
               "citus",
               "citus-extension",
@@ -353,11 +353,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T16:15:20Z",
-            "open_issues": 3830,
+            "last_commit": "2026-10-17T10:38:43Z",
+            "open_issues": 3698,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15790,
+            "stars": 15789,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -382,11 +382,11 @@
             "id": 60246359,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T17:39:59Z",
-            "open_issues": 8364,
+            "last_commit": "2026-10-17T16:38:24Z",
+            "open_issues": 8460,
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 50450,
+            "stars": 50458,
             "topics": [
               "ai",
               "analytics",
@@ -461,10 +461,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-16T02:52:31Z",
-            "open_issues": 1824,
+            "open_issues": 1823,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11182,
+            "stars": 11180,
             "topics": [
               "compiler",
               "cuda",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:42:25.794Z",
+    "last_updated": "2026-10-17T16:40:16.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "SQL/NoSQL DB Guide. Learn about SQL/NoSQL databases & Distributed Systems.",
@@ -520,7 +520,7 @@
       "open_issues": 0,
       "owner": "mikeroyal",
       "repo": "SQL-NoSQL-Guide",
-      "stars": 78,
+      "stars": 77,
       "topics": [
         "awesome",
         "awesome-list",
