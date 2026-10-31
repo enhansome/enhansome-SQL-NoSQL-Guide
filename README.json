@@ -53,7 +53,7 @@
             "open_issues": 2607,
             "owner": "microsoft",
             "repo": "azuredatastudio",
-            "stars": 7678,
+            "stars": 7679,
             "topics": [
               "azure",
               "azure-data-studio",
@@ -80,10 +80,10 @@
             "language": "Haskell",
             "license": "MIT",
             "last_commit": "2026-10-30T17:26:49Z",
-            "open_issues": 408,
+            "open_issues": 409,
             "owner": "PostgREST",
             "repo": "postgrest",
-            "stars": 27737,
+            "stars": 27740,
             "topics": [
               "api",
               "automatic-api",
@@ -140,11 +140,11 @@
             "id": 84240850,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T18:31:08Z",
-            "open_issues": 447,
+            "last_commit": "2026-10-31T12:40:05Z",
+            "open_issues": 441,
             "owner": "timescale",
             "repo": "timescaledb",
-            "stars": 23775,
+            "stars": 23778,
             "topics": [
               "analytics",
               "database",
@@ -179,7 +179,7 @@
             "open_issues": 9,
             "owner": "Netflix",
             "repo": "atlas",
-            "stars": 3577,
+            "stars": 3580,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:36.124Z"
@@ -228,7 +228,7 @@
             "open_issues": 70,
             "owner": "rqlite",
             "repo": "rqlite",
-            "stars": 17888,
+            "stars": 17895,
             "topics": [
               "consensus",
               "database",
@@ -257,11 +257,11 @@
             "id": 22394357,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T19:53:07Z",
-            "open_issues": 573,
+            "last_commit": "2026-10-31T06:05:06Z",
+            "open_issues": 568,
             "owner": "osquery",
             "repo": "osquery",
-            "stars": 23706,
+            "stars": 23710,
             "topics": [
               "hacktoberfest",
               "intrusion-detection",
@@ -288,7 +288,7 @@
             "open_issues": 53,
             "owner": "fastapi",
             "repo": "sqlmodel",
-            "stars": 18507,
+            "stars": 18515,
             "topics": [
               "fastapi",
               "json",
@@ -317,7 +317,7 @@
             "open_issues": 461,
             "owner": "citusdata",
             "repo": "citus",
-            "stars": 12835,
+            "stars": 12838,
             "topics": [
               "citus",
               "citus-extension",
@@ -353,11 +353,11 @@
             "id": 28449431,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T18:05:01Z",
-            "open_issues": 2739,
+            "last_commit": "2026-10-31T12:20:07Z",
+            "open_issues": 2688,
             "owner": "scylladb",
             "repo": "scylladb",
-            "stars": 15814,
+            "stars": 15813,
             "topics": [
               "c-plus-plus",
               "cassandra",
@@ -382,11 +382,11 @@
             "id": 60246359,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T18:40:56Z",
-            "open_issues": 8566,
+            "last_commit": "2026-10-31T17:47:15Z",
+            "open_issues": 8627,
             "owner": "ClickHouse",
             "repo": "ClickHouse",
-            "stars": 50677,
+            "stars": 50692,
             "topics": [
               "ai",
               "analytics",
@@ -427,7 +427,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11917,
+                "stars": 11918,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -464,7 +464,7 @@
             "open_issues": 1843,
             "owner": "numba",
             "repo": "numba",
-            "stars": 11194,
+            "stars": 11195,
             "topics": [
               "compiler",
               "cuda",
@@ -493,7 +493,7 @@
             "open_issues": 521,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11917,
+            "stars": 11918,
             "topics": [
               "big-data",
               "cluster-management",
@@ -508,7 +508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:54:00.914Z",
+    "last_updated": "2026-10-31T17:58:37.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "SQL/NoSQL DB Guide. Learn about SQL/NoSQL databases & Distributed Systems.",
